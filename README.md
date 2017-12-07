@@ -7,6 +7,7 @@ windows setup @ msr
 * Dexpo
 
   workspace
-* hominlinx   **to fork**
+* hominlinx   
 
+  **to fork**
   vim configuration
