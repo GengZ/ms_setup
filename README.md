@@ -3,10 +3,10 @@ windows setup @ msr
 
 * mobaxterm
 
-terminal-like
+  terminal-like
 * Dexpo
 
-workspace
-* hominlinx ** to fork **
+  workspace
+* hominlinx   **to fork**
 
-vim configuration
+  vim configuration
