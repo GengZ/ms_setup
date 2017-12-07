@@ -2,8 +2,11 @@
 windows setup @ msr
 
 * mobaxterm
+
 terminal-like
-* Dexpot
+* Dexpo
+
 workspace
 * hominlinx ** to fork **
+
 vim configuration
